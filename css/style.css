@@ -1,0 +1,69 @@
+img{
+    width: 300px;
+    height: 300px;
+}
+h1{
+color:black;
+font-size: 40px;
+}
+h2{
+color:black;
+font-size: 30px;
+}
+
+
+nav a{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+footer{
+    background-color:grey;
+    color:white;
+    width: 50%;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+/* score 10 */
+.artist-card{
+    border: 2px solid black;
+    border-radius: 13px;
+    background-color: white;
+}
+.thumbnail{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+/* score 101 */
+#vangogh h2{
+    color:rgb(53, 53, 181)
+} 
+.van-gogh{
+    color: red;
+}
+#monet h2{
+    color: rgb(36, 130, 161);
+}
+#rembrandt h2{
+    color: rgb(99, 26, 26);
+}
+
+#welcome{
+    font-size:25px;
+}
+a{
+      font-size: 20px;
+    color: black;
+    margin-left: 2px;
+}
+/* score 3 */
+main section img{
+    width: 150px;
+    height: 150px;
+}
+main #headid{
+    font-size: 50px;
+}
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
